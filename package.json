@@ -1,0 +1,22 @@
+{
+  "name": "projectTinnova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exerc1": "node src/challenges/exercise1/index.js",
+    "exerc2": "node src/challenges/exercise2/index.js",
+    "exerc3": "node src/challenges/exercise3/index.js",
+    "exerc4": "node src/challenges/exercise4/index.js",
+    "exerc5": "node src/challenges/exercise5/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "readline-sync": "^1.4.10",
+    "save": "^2.4.0"
+  }
+}
